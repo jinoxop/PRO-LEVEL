@@ -1,0 +1,189 @@
+{
+    "4682790037": {
+        "unique_device_id": "Google|188c4f25-83fa-4151-b59e-a1f8b5983837",
+        "brand": "Poco",
+        "model": "M2102J20SG",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 13 / API-33",
+        "screen_dpi": "311",
+        "memory": 4917,
+        "processor_details": "ARMv7 VFPv3 NEON | 2253 | 6",
+        "client_ip": "151.161.68.93"
+    },
+    "ae55031b36aba5058e5e2642a25a6629": {
+        "unique_device_id": "Google|8fe18ea5-dbf7-4d7f-9131-fab269d17708",
+        "brand": "Samsung",
+        "model": "SM-G998B",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 12 / API-31",
+        "screen_dpi": "416",
+        "memory": 4559,
+        "processor_details": "ARMv7 VFPv3 NEON | 2382 | 6",
+        "client_ip": "122.54.93.215"
+    },
+    "8014555528": {
+        "unique_device_id": "Google|0ad6f2e9-1650-4911-8222-b146626993d8",
+        "brand": "Samsung",
+        "model": "SM-G998B",
+        "gpu_renderer": "Adreno (TM) 660",
+        "system_software": "Android OS 12 / API-31",
+        "screen_dpi": "342",
+        "memory": 5142,
+        "processor_details": "ARMv7 VFPv3 NEON | 2861 | 6",
+        "client_ip": "222.35.59.95"
+    },
+    "521d60044acf109f746865c115753fcf": {
+        "unique_device_id": "Google|c727eb18-da22-4805-ba5b-f7ce4d1afa34",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_dpi": "380",
+        "memory": 5523,
+        "processor_details": "ARMv7 VFPv3 NEON | 2275 | 6",
+        "client_ip": "166.36.87.134"
+    },
+    "testacct001": {
+        "unique_device_id": "Google|f5b1295f-f3e6-494c-9cbe-0e697a830fde",
+        "brand": "OPPO",
+        "model": "CPH2611",
+        "gpu_renderer": "Adreno (TM) 720",
+        "system_software": "Android OS 14 / API-34",
+        "screen_dpi": "344",
+        "memory": 3695,
+        "processor_details": "ARMv7 VFPv3 NEON | 3175 | 6",
+        "client_ip": "189.89.218.126"
+    },
+    "3185763642": {
+        "unique_device_id": "Google|25abd1ed-f28a-4716-9268-a177d5aa4dfc",
+        "brand": "OPPO",
+        "model": "CPH2611",
+        "gpu_renderer": "Adreno (TM) 720",
+        "system_software": "Android OS 14 / API-34",
+        "screen_dpi": "412",
+        "memory": 6498,
+        "processor_details": "ARMv7 VFPv3 NEON | 2879 | 6",
+        "client_ip": "113.87.160.40"
+    },
+    "f6185c72f38d30c30e945d77f12ec799": {
+        "unique_device_id": "Google|15681ca7-016f-4aea-9e35-611ee0407511",
+        "brand": "Samsung",
+        "model": "SM-A205F",
+        "gpu_renderer": "Mali-G52 MP2",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020)",
+        "screen_dpi": "400",
+        "memory": 5762,
+        "processor_details": "ARMv7 VFPv3 NEON | 1853 | 6",
+        "client_ip": "221.200.55.150"
+    },
+    "4085573226": {
+        "unique_device_id": "Google|6846e539-7036-43d1-9891-f0c3a3ecaa1b",
+        "brand": "Samsung",
+        "model": "SM-A205F",
+        "gpu_renderer": "Mali-G52 MP2",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020)",
+        "screen_dpi": "360",
+        "memory": 6157,
+        "processor_details": "ARMv7 VFPv3 NEON | 1880 | 4",
+        "client_ip": "157.225.245.209"
+    },
+    "8016969690": {
+        "unique_device_id": "Google|bf7346b0-8672-49f1-955e-b48877e001c3",
+        "brand": "Realme",
+        "model": "RMX2026",
+        "gpu_renderer": "Mali-G57 MC2",
+        "system_software": "Android OS 11 / API-30 (RP1A.200720.011)",
+        "screen_dpi": "320",
+        "memory": 3991,
+        "processor_details": "ARMv7 VFPv3 NEON | 1896 | 8",
+        "client_ip": "109.110.149.13"
+    },
+    "4226079377": {
+        "unique_device_id": "Google|c2753daf-c44e-440f-9c15-faa3ef00ab3a",
+        "brand": "Xiaomi",
+        "model": "Redmi Note 8",
+        "gpu_renderer": "Adreno (TM) 610",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020/QP1A.190711.020)",
+        "screen_dpi": "400",
+        "memory": 4987,
+        "processor_details": "ARMv7 VFPv3 NEON | 2124 | 4",
+        "client_ip": "185.85.176.134"
+    },
+    "7849885693": {
+        "unique_device_id": "Google|b365187e-1c7a-40fb-ad92-2edcaeae901f",
+        "brand": "Xiaomi",
+        "model": "Redmi Note 8",
+        "gpu_renderer": "Adreno (TM) 610",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020/QP1A.190711.020)",
+        "screen_dpi": "360",
+        "memory": 3075,
+        "processor_details": "ARMv7 VFPv3 NEON | 2011 | 4",
+        "client_ip": "214.70.141.26"
+    },
+    "4335231760": {
+        "unique_device_id": "Google|3ceed0be-cbc9-49f2-8b56-630cd01539ab",
+        "brand": "Xiaomi",
+        "model": "Redmi Note 8",
+        "gpu_renderer": "Adreno (TM) 610",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020/QP1A.190711.020)",
+        "screen_dpi": "320",
+        "memory": 3207,
+        "processor_details": "ARMv7 VFPv3 NEON | 1955 | 8",
+        "client_ip": "167.13.70.90"
+    },
+    "4335231805": {
+        "unique_device_id": "Google|3d7535f6-bdf6-401d-80d5-506f8ca1e2e0",
+        "brand": "Samsung",
+        "model": "SM-A205F",
+        "gpu_renderer": "Mali-G52 MP2",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020)",
+        "screen_dpi": "420",
+        "memory": 4377,
+        "processor_details": "ARMv7 VFPv3 NEON | 1981 | 7",
+        "client_ip": "183.24.194.132"
+    },
+    "4335231962": {
+        "unique_device_id": "Google|67891378-6498-4b56-8872-2ed843e6375a",
+        "brand": "Samsung",
+        "model": "SM-A205F",
+        "gpu_renderer": "Mali-G52 MP2",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020)",
+        "screen_dpi": "320",
+        "memory": 4550,
+        "processor_details": "ARMv7 VFPv3 NEON | 2129 | 4",
+        "client_ip": "185.36.71.155"
+    },
+    "4335231946": {
+        "unique_device_id": "Google|857b0b7b-25a1-42c7-bb6b-5e64dd7894f3",
+        "brand": "OPPO",
+        "model": "CPH2145",
+        "gpu_renderer": "Adreno (TM) 610",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020)",
+        "screen_dpi": "400",
+        "memory": 3636,
+        "processor_details": "ARMv7 VFPv3 NEON | 2270 | 6",
+        "client_ip": "181.154.241.96"
+    },
+    "4335231959": {
+        "unique_device_id": "Google|c737f453-94c4-4689-a9e4-6b6334c3ca1c",
+        "brand": "Samsung",
+        "model": "SM-A205F",
+        "gpu_renderer": "Mali-G52 MP2",
+        "system_software": "Android OS 10 / API-29 (QP1A.190711.020)",
+        "screen_dpi": "400",
+        "memory": 4609,
+        "processor_details": "ARMv7 VFPv3 NEON | 1905 | 6",
+        "client_ip": "149.157.208.17"
+    },
+    "cbf6fd6fd9c705cd740a4a9920c1ee9b": {
+        "unique_device_id": "Google|bbc0c836-3d0a-4de3-84d5-c7360aa40bfa",
+        "brand": "Xiaomi",
+        "model": "M2007J17G",
+        "gpu_renderer": "Adreno (TM) 618",
+        "system_software": "Android OS 10 / API-29 (QKQ1.190828.002)",
+        "screen_dpi": "400",
+        "memory": 5806,
+        "processor_details": "ARMv7 VFPv3 NEON | 2050 | 5",
+        "client_ip": "122.121.48.181"
+    }
+}
